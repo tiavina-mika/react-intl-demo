@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom';
 import {IntlProvider, FormattedMessage, FormattedHTMLMessage, useIntl} from 'react-intl';
 import messages_fr from "./fr.json";
